@@ -3,7 +3,6 @@
 ## Структура репозитория
 
 ```
-.
 ├── PA_LR3_Podvigin.ipynb   # Jupyter Notebook с решением
 ├── requirements.txt      # Зависимости Python
 ├── README.md             # Инструкция (этот файл)
